@@ -10,8 +10,9 @@ import java.io.IOException;
 public class HelloApplication extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
-        Parent root = FXMLLoader.load(getClass().getResource("fxml/view-students.fxml"));
-        primaryStage.setTitle("Student Manager");
+        FXMLLoader loader = new FXMLLoader(this.getClass().getResource("fxml/login.fxml"));
+        Parent root = (Parent) loader.load();
+        primaryStage.setTitle("FIS - Student Manager");
         primaryStage.setScene(new Scene(root, 600, 400));
         primaryStage.show();
     }
