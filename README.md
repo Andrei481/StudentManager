@@ -1,6 +1,7 @@
 
 ## SEF Lab Week 5 &nbsp;—&nbsp; Git Practice
 
+[Lab content](http://labs.cs.upt.ro/~oose/pmwiki.php/SEF/LabContent)
 
 ### Team members:
 
