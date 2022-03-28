@@ -1,5 +1,5 @@
 
-## SEF Lab Week 5 — Git Practice
+## SEF Lab Week 5 &nbsp;—&nbsp; Git Practice
 
 
 ### Team members:
